@@ -1,1 +1,1 @@
-a readme text in a readme file
+This is just a readme text thats in a readme file
